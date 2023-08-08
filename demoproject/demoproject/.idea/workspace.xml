@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2b9999e-8dd6-4916-82d8-61a024facdbb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../commerce/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/.idea/commerce.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/commerce/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/commerce/.idea/commerce.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/commerce/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/commerce/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/commerce/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/commerce/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/commerce/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/commerce/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/commerce/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/commerce/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/commerce/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/shops/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/shops/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/shops/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/shops/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/shops/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/shops/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/shops/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/shops/views.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PQOTmojspTYY4B8lEtpw8TVkCi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/PythonProjects/new/myproject/newproject",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProjects\demo\demoproject\demoproject\template" />
+      <recent name="D:\PythonProjects\demo\demoproject\demoproject\static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2b9999e-8dd6-4916-82d8-61a024facdbb" name="Changes" comment="" />
+      <created>1683385849139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683385849139</updated>
+    </task>
+    <servers />
+  </component>
+</project>
